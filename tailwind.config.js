@@ -5,6 +5,7 @@ module.exports = {
     extend: {
       fontFamily: {
         primary: "open-sans",
+        header: "lato",
       },
     },
   },
