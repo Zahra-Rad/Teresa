@@ -7,6 +7,9 @@ module.exports = {
         primary: "open-sans",
         header: "lato",
       },
+      backgroundImage: {
+        bg: "url('../../img/bg.png')",
+      },
     },
   },
   plugins: [],
